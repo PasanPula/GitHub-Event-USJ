@@ -7,3 +7,4 @@ A DEMO Project for USJ GitHub Event
 - Naresh
 - Yohan
 - Chanaka
+- Buddika
