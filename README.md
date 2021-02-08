@@ -6,3 +6,4 @@ A DEMO Project for USJ GitHub Event
 - Safnaj
 - Naresh
 - Yohan
+- Buddika
