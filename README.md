@@ -3,5 +3,8 @@ A DEMO Project for USJ GitHub Event
 
 ## Add your names
 
-Safnaj
-Naresh
+- Safnaj
+- Naresh
+- Yohan
+- Chanaka
+- Buddika
